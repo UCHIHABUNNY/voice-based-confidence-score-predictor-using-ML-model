@@ -1,0 +1,24 @@
+Speech: hello
+Confidence Score: 50.0
+Confidence Level: Medium Confidence
+------------------------------
+Speech: I am very sad scene
+Confidence Score: 17.5
+Confidence Level: Low Confidence
+------------------------------
+Speech: I am always trying to speak
+Confidence Score: 50.0
+Confidence Level: Medium Confidence
+------------------------------
+Speech: hi this is Murali Sandeep
+Confidence Score: 50.0
+Confidence Level: Medium Confidence
+------------------------------
+Speech: this is more recently when I am here to explain about something
+Confidence Score: 62.5
+Confidence Level: Medium Confidence
+------------------------------
+Speech: hi this is Murali Sandeep I am here to explain Python but I have zero
+Confidence Score: 50.0
+Confidence Level: Medium Confidence
+------------------------------
