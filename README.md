@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Project Description / Methodology  :
 
 This project analyzes speaker confidence by converting speech into text and applying sentiment analysis using TextBlob.  
@@ -24,3 +25,7 @@ This project uses Google’s pre-trained Speech Recognition model to convert spe
 #Binary classification#
 1  →  Confident
 0  →  Not confident
+=======
+# voice-based-confidence-score-predictor-using-ML-model
+This project uses Google Speech Recognition and TextBlob to analyze speaker confidence. Originally rule-based, it now features a Logistic Regression model for binary classification (1: Confident, 0: Not Confident). While it functions without a dataset for inference, it requires labeled data  to refine its predictions.
+>>>>>>> 721fe95b761911570233101196f6d9336997b84c
